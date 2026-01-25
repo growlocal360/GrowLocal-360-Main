@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import Industries from "@/components/Industries";
 import Features from "@/components/Features";
 import JobSnaps from "@/components/JobSnaps";
 import HowItWorks from "@/components/HowItWorks";
@@ -11,6 +12,7 @@ export default function Home() {
     <main className="min-h-screen bg-background overflow-x-hidden">
       <Navbar />
       <Hero />
+      <Industries />
       <Features />
       <JobSnaps />
       <HowItWorks />
