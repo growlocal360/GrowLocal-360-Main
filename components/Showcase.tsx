@@ -10,7 +10,7 @@ export default function Showcase() {
                 </p>
 
                 <Link
-                    href="#"
+                    href="https://app.growlocal360.com/login"
                     className="inline-block bg-black hover:bg-gray-900 text-white px-10 py-4 rounded-full font-medium text-xl transition-all shadow-lg hover:shadow-xl hover:-translate-y-1 mb-8"
                 >
                     Create Free Account

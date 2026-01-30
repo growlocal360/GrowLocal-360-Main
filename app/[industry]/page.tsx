@@ -66,7 +66,7 @@ function IndustryHero({ industry }: { industry: Industry }) {
                     {/* CTAs */}
                     <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
                         <Link
-                            href="#"
+                            href="https://app.growlocal360.com/login"
                             className="inline-flex items-center justify-center gap-2 bg-black hover:bg-gray-900 text-white px-8 py-4 rounded-full font-medium text-lg transition-all shadow-md hover:shadow-lg hover:-translate-y-0.5"
                         >
                             Create Free Account
@@ -105,7 +105,7 @@ function IndustryShowcase({ industry }: { industry: Industry }) {
                 </p>
 
                 <Link
-                    href="#"
+                    href="https://app.growlocal360.com/login"
                     className="inline-block bg-black hover:bg-gray-900 text-white px-10 py-4 rounded-full font-medium text-xl transition-all shadow-lg hover:shadow-xl hover:-translate-y-1 mb-8"
                 >
                     Create Free Account

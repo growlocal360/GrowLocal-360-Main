@@ -76,7 +76,7 @@ export default function Navbar() {
 
                 {/* Desktop CTA */}
                 <Link
-                    href="#"
+                    href="https://app.growlocal360.com/login"
                     className="hidden md:block bg-black hover:bg-gray-900 text-white px-6 py-2.5 rounded-full font-medium text-sm transition-all shadow-sm hover:shadow-md"
                 >
                     Create Free Account
@@ -148,7 +148,7 @@ export default function Navbar() {
 
                         {/* Mobile CTA */}
                         <Link
-                            href="#"
+                            href="https://app.growlocal360.com/login"
                             className="bg-black hover:bg-gray-900 text-white px-6 py-3 rounded-full font-medium text-base text-center transition-all shadow-sm hover:shadow-md mt-4"
                             onClick={() => setMobileMenuOpen(false)}
                         >

@@ -95,7 +95,7 @@ function SiloHero({ content, industrySlug, industry }: {
                     {/* CTAs */}
                     <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
                         <Link
-                            href="#"
+                            href="https://app.growlocal360.com/login"
                             className="inline-flex items-center justify-center gap-2 bg-black hover:bg-gray-900 text-white px-8 py-4 rounded-full font-medium text-lg transition-all shadow-md hover:shadow-lg hover:-translate-y-0.5"
                         >
                             Create Free Account
@@ -151,7 +151,7 @@ function SiloContent({ content, industrySlug, industry }: {
                     <div className="mt-16 p-8 bg-black text-white rounded-2xl text-center">
                         <p className="text-xl mb-6">{content.ctaText}</p>
                         <Link
-                            href="#"
+                            href="https://app.growlocal360.com/login"
                             className="inline-flex items-center justify-center gap-2 bg-yellow-300 hover:bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg transition-all"
                         >
                             Create Free Account
