@@ -82,9 +82,7 @@ function SiloHero({ content, industrySlug, industry }: {
 
                     {/* H1 with yellow highlight */}
                     <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 tracking-tight leading-[1.1]">
-                        <span className="bg-yellow-300 px-2">{highlightWords}</span>
-                        <br className="hidden md:block" />
-                        {restOfTitle}
+                        <span className="bg-yellow-300 px-2">{highlightWords}</span> {restOfTitle}
                     </h1>
 
                     {/* Intro as description */}
