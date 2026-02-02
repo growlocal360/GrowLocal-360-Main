@@ -83,7 +83,7 @@ export default function JobSnaps() {
 
                 {/* Headline */}
                 <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-center mb-6">
-                    GrowLocal 360 <span className="bg-yellow-300 text-black px-2">Job Snaps®</span>
+                    GrowLocal 360 <span className="bg-[#03d9c1] text-black px-2">Job Snaps®</span>
                 </h2>
 
                 {/* Description */}

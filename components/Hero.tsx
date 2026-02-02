@@ -16,7 +16,7 @@ export default function Hero() {
 
                     {/* Main Headline */}
                     <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 tracking-tight leading-[1.1]">
-                        Finally, a <span className="bg-yellow-300 px-2">Smarter & Easier</span> way to Get & Manage More Local Leads
+                        Finally, a <span className="bg-[#03d9c1] px-2">Smarter & Easier</span> way to Get & Manage More Local Leads
                     </h1>
 
                     {/* Secondary Headline */}

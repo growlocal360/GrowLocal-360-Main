@@ -49,7 +49,7 @@ function IndustryHero({ industry }: { industry: Industry }) {
 
                     {/* Main Headline */}
                     <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 tracking-tight leading-[1.1]">
-                        <span className="bg-yellow-300 px-2">{industry.name}</span> Lead Generation & Management
+                        <span className="bg-[#03d9c1] px-2">{industry.name}</span> Lead Generation & Management
                     </h1>
 
                     {/* Secondary Headline */}

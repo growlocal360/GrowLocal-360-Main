@@ -82,7 +82,7 @@ function SiloHero({ content, industrySlug, industry }: {
 
                     {/* H1 with yellow highlight */}
                     <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 tracking-tight leading-[1.1]">
-                        <span className="bg-yellow-300 px-2">{highlightWords}</span> {restOfTitle}
+                        <span className="bg-[#03d9c1] px-2">{highlightWords}</span> {restOfTitle}
                     </h1>
 
                     {/* Intro as description */}
@@ -150,7 +150,7 @@ function SiloContent({ content, industrySlug, industry }: {
                         <p className="text-xl mb-6">{content.ctaText}</p>
                         <Link
                             href="https://app.growlocal360.com/login"
-                            className="inline-flex items-center justify-center gap-2 bg-yellow-300 hover:bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg transition-all"
+                            className="inline-flex items-center justify-center gap-2 bg-[#03d9c1] hover:bg-[#02c4ae] text-black px-8 py-4 rounded-full font-bold text-lg transition-all"
                         >
                             Create Free Account
                             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
