@@ -30,7 +30,7 @@ export const industries: Industry[] = [
     {
         slug: "pressure-washing",
         name: "Pressure Washing",
-        shortName: "Pressure Wash",
+        shortName: "Pressure Washing",
         title: "Pressure Washing Lead Generation & Management",
         description: "Get more pressure washing jobs with an SEO-optimized website, automated follow-ups, and Google Business Profile integration.",
         heroDescription: "Attract Local Pressure Washing Leads, Improve Your Customer Experience, Grow Your Business",
