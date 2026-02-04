@@ -21,7 +21,7 @@ export const industries: Industry[] = [
     {
         slug: "appliance-repair",
         name: "Appliance Repair",
-        shortName: "Appliance",
+        shortName: "Appliance Repair",
         title: "Appliance Repair Lead Generation & Management",
         description: "Get more appliance repair jobs with an SEO-optimized website, automated follow-ups, and Google Business Profile integration.",
         heroDescription: "Attract Local Appliance Repair Leads, Improve Your Customer Experience, Grow Your Business",
